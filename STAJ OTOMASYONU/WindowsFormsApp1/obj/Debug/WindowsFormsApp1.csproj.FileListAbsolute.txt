@@ -1,0 +1,37 @@
+C:\Users\alper\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\alper\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\alper\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\alper\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\alper\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\alper\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.giris.resources
+C:\Users\alper\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\alper\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\alper\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\alper\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\alper\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ogrenci.resources
+C:\Users\alper\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yonetici.resources
+C:\Users\alper\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.firma.resources
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.firma.resources
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.giris.resources
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ogrenci.resources
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ogrenci2.resources
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yonetici.resources
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ogrenci_kayıt_ol.resources
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.akademisyen_kayıt.resources
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.firma_kayıt.resources
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.akademisyen2.resources
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.firma2.resources
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ogrenci_cv.resources
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.staj_defteri.resources
+C:\Users\alper\OneDrive\Masaüstü\STAJ OTOMASYONU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.staj_defteri2.resources
